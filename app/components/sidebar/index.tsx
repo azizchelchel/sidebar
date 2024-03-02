@@ -25,6 +25,21 @@ const items: IsSidebarItem[] = [
     icon: LayoutDashboard,
     path: "/",
   },
+  {
+    name: "Help",
+    icon: LayoutDashboard,
+    path: "/help",
+  },
+  {
+    name: "Dashboard",
+    icon: LayoutDashboard,
+    path: "/",
+  },
+  {
+    name: "Dashboard",
+    icon: LayoutDashboard,
+    path: "/",
+  },
 ];
 const Sidebar = () => {
   return (
